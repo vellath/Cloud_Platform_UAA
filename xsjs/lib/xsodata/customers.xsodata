@@ -1,0 +1,3 @@
+service {
+	"sap.odatav4::OTC.Customer" as "customer";
+}
