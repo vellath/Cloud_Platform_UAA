@@ -13,7 +13,7 @@ context OTC {
         City       : String(50);
         State      : String(20);
         Country    : String(20);
-        PostalCode : String(10);
+        PostalCode : String(11);
     };
 
     /*@@layout{"layoutInfo":{"x":-2568,"y":-648.5}}*/
